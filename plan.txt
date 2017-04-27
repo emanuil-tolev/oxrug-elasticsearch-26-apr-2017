@@ -1,7 +1,0 @@
-1. extract Elasticsearch
-2. start ruby console
-3. select your data (or create it, in our case)
-4. create your Elasticsearch index
-5. index all yer data
-6. search in Ruby
-7. search direct in Elasticsearch
